@@ -1,2 +1,2 @@
 # DynamicalMenu
-Dynamical Menu it's web app for control commercial info on site and E-menu
+Dynamic Menu is a web application for managing commercial information on the website and in the electronic menu.
